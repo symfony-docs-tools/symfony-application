@@ -40,6 +40,7 @@
         "symfony/validator": "5.4.*",
         "symfony/web-link": "5.4.*",
         "symfony/webpack-encore-bundle": "^1.11",
+        "symfony/workflow": "5.4.*",
         "symfony/yaml": "5.4.*",
         "twig/extra-bundle": "^3.0",
         "twig/twig": "^3.0"
