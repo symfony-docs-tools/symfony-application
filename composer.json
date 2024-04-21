@@ -40,6 +40,7 @@
         "symfony/validator": "*",
         "symfony/web-link": "*",
         "symfony/webpack-encore-bundle": "^2.1",
+        "symfony/workflow": "*",
         "symfony/yaml": "*",
         "twig/extra-bundle": "^3.0",
         "twig/twig": "^3.0"
@@ -84,7 +85,8 @@
     "scripts": {
         "auto-scripts": {
             "cache:clear": "symfony-cmd",
-            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+            "assets:install %PUBLIC_DIR%": "symfony-cmd",
+            "importmap:install": "symfony-cmd"
         },
         "post-install-cmd": [
             "@auto-scripts"
