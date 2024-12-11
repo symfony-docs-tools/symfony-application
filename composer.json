@@ -22,6 +22,7 @@
         "symfony/html-sanitizer": "*",
         "symfony/http-client": "*",
         "symfony/intl": "*",
+        "symfony/json-encoder": "*",
         "symfony/lock": "*",
         "symfony/mailer": "*",
         "symfony/mercure-bundle": "^0.3.2",
